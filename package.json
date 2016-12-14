@@ -1,0 +1,32 @@
+{
+  "name": "selectel-cloudstorage",
+  "version": "0.1.0",
+  "description": "Client for selectel cloud storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "selectel",
+    "cloudstorage"
+  ],
+  "author": {
+    "name": "Nikolay Zhuravlev",
+    "email": "Nikolay.A.Zhuravlev@gmail.com"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhuravlev-nik/selectel-cloudstorage.git"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/zhuravlev-nik/selectel-cloudstorage/issues"
+  },
+  "homepage": "https://github.com/zhuravlev-nik/selectel-cloudstorage#readme",
+
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "request": "^2.72.0"
+  }
+}
