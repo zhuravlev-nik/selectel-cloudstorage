@@ -1,0 +1,7 @@
+.git
+.gitignore
+.hg
+.hgignore
+*.log
+node_modules
+.npmignore

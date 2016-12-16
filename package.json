@@ -24,9 +24,9 @@
     "url": "https://github.com/zhuravlev-nik/selectel-cloudstorage/issues"
   },
   "homepage": "https://github.com/zhuravlev-nik/selectel-cloudstorage#readme",
-
   "dependencies": {
     "async": "^2.0.0-rc.3",
+    "fs": "0.0.1-security",
     "request": "^2.72.0"
   }
 }
